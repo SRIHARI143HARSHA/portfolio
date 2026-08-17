@@ -196,7 +196,7 @@ const Hero = () => {
                   <span className="text-purple-400">private String</span> <span className="text-slate-200">degree</span> = <span className="text-emerald-400">"B.E. Computer Engineering"</span>;
                 </div>
                 <div className="pl-4">
-                  <span className="text-purple-400">private double</span> <span className="text-slate-200">cgpa</span> = <span className="text-cyan-400 font-bold">8.7</span>;
+                  <span className="text-purple-400">private double</span> <span className="text-slate-200">cgpa</span> = <span className="text-cyan-400 font-bold">8.71</span>;
                 </div>
                 <div className="pl-4">
                   <span className="text-purple-400">private String[]</span> <span className="text-slate-200">interests</span> = &#123;
@@ -234,12 +234,12 @@ const Hero = () => {
               transition={{ duration: 4, repeat: Infinity, ease: "easeInOut" }}
               className="absolute -bottom-6 -left-6 glass-card p-3.5 rounded-2xl border border-cyan-500/30 flex items-center gap-3 shadow-xl backdrop-blur-md bg-slate-900/90"
             >
-              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-500 to-blue-600 flex items-center justify-center text-white font-bold text-lg shadow-md shadow-cyan-500/30">
-                8.7
+              <div className="w-10 h-10 rounded-xl bg-gradient-to-br from-cyan-500 to-blue-600 flex items-center justify-center text-white font-bold text-sm shadow-md shadow-cyan-500/30">
+                8.71
               </div>
               <div>
                 <div className="text-xs text-slate-400 font-medium">Academic Excellence</div>
-                <div className="text-sm font-bold text-white">CGPA 8.7</div>
+                <div className="text-sm font-bold text-white">CGPA 8.71</div>
               </div>
             </motion.div>
 

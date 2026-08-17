@@ -5,15 +5,15 @@ export const personalInfo = {
   college: "Saveetha School of Engineering, Chennai",
   collegeDates: "Aug 2023 – May 2027",
   graduationYear: "2027",
-  cgpa: "8.7",
-  gpaText: "8.7/10",
+  cgpa: "8.71",
+  gpaText: "8.71/10",
   location: "Chennai, Tamil Nadu, India",
   email: "srihariramayanapu@gmail.com",
   phone: "(+91) 7093103017",
   primaryRole: "Computer Science (AI) Student | Full Stack Developer | Software Engineer",
-  summary: "Computer Science (AI) student with strong skills in full stack development, IoT, and real-time systems. Proficient in Java, Python, and React.js with hands-on internship experience. Passionate about building scalable and intelligent solutions to solve real-world problems.",
-  aboutText1: "I am Ramayanapu Srihari (Sri Hari), a Computer Science and Engineering (Artificial Intelligence) student at Saveetha School of Engineering, Chennai, with a current GPA of 8.7/10.",
-  aboutText2: "With hands-on experience as a Full Stack Developer Intern at Edu-Versity (Bangalore), I specialize in building full-stack applications, automated CI/CD pipelines, and intelligent mobile solutions using Java, Python, React.js, React Native, Docker, and Jenkins.",
+  summary: "Computer Science (AI) student with strong skills in full stack development, IoT, and real-time systems. Proficient in Java, Python, and React.js with hands-on internship experience as a Full Stack Developer Intern at Edu-Versity (Bangalore). Passionate about building scalable and intelligent solutions to solve real-world problems.",
+  aboutText1: "I am Ramayanapu Srihari (Sri Hari), a Computer Science and Engineering (Artificial Intelligence) student at Saveetha School of Engineering, Chennai, with a current GPA of 8.71/10.",
+  aboutText2: "I completed a hands-on internship as a Full Stack Developer Intern at Edu-Versity, Bangalore, where I assisted in building web application components using React.js and Node.js, working on frontend UI enhancements, and integrating REST API backends.",
   heroRoles: [
     "Java Developer",
     "Full Stack Developer",
@@ -38,7 +38,7 @@ export const links = {
 };
 
 export const statsCards = [
-  { label: "CGPA", value: "8.7", sub: "Saveetha School of Engg", color: "from-blue-500 to-cyan-400" },
+  { label: "CGPA", value: "8.71", sub: "Saveetha School of Engg", color: "from-blue-500 to-cyan-400" },
   { label: "Graduation", value: "2027", sub: "Expected Completion", color: "from-indigo-500 to-purple-400" },
   { label: "Degree", value: "B.E.", sub: "Computer Science & Engg (AI)", color: "from-cyan-500 to-teal-400" },
   { label: "Location", value: "Chennai", sub: "Tamil Nadu, India", color: "from-purple-500 to-pink-400" }
@@ -106,8 +106,8 @@ export const internships = [
     company: "Edu-Versity",
     location: "Bangalore",
     role: "Full Stack Developer Intern",
-    period: "Internship Experience",
-    description: "Assisted in developing and maintaining web application components, implementing UI enhancements, and understanding full stack software engineering workflows.",
+    period: "Resume Internship Experience",
+    description: "Assisted in developing and maintaining web application components using React.js and Node.js. Worked on frontend UI improvements and basic backend integration.",
     responsibilities: [
       "Assisted in developing and maintaining web application components using React.js and Node.js.",
       "Worked on frontend UI improvements and basic backend integration.",
@@ -122,7 +122,7 @@ export const learningJourney = [
     period: "2023 – Present",
     title: "B.E. Computer Science & Engineering (AI)",
     institution: "Saveetha School of Engineering, Chennai",
-    status: "Current GPA: 8.7/10",
+    status: "Current GPA: 8.71/10",
     focus: [
       "Full Stack Web Development & Mobile Applications",
       "Object-Oriented Programming (Java) & Data Structures",
@@ -136,11 +136,11 @@ export const learningJourney = [
     period: "Internship",
     title: "Full Stack Developer Intern",
     institution: "Edu-Versity, Bangalore",
-    status: "Industry Internship",
+    status: "Resume Internship Experience",
     focus: [
-      "Developing web app components using React.js & Node.js",
-      "Frontend UI improvements and backend REST API integration",
-      "Collaborating on full stack development workflows"
+      "Assisted in developing and maintaining web application components using React.js and Node.js.",
+      "Worked on frontend UI improvements and basic backend integration.",
+      "Collaborated with team members to understand full stack development workflows."
     ],
     icon: "Code2",
     highlight: true
@@ -275,7 +275,7 @@ export const projectsData = [
       "Sri Hari AI portfolio chat assistant widget",
       "Resume PDF viewer & validated contact form"
     ],
-    github: "https://github.com/SRIHARI143HARSHA/srihari-portfolio",
+    github: "https://github.com/SRIHARI143HARSHA/portfolio",
     demo: "http://localhost:3000/",
     imageGradient: "from-blue-600 to-cyan-900",
     iconName: "Layout"
@@ -362,7 +362,7 @@ export const educationList = [
     institution: "Saveetha School of Engineering, Chennai",
     degree: "B.E. Computer Science and Engineering (Artificial Intelligence)",
     period: "Aug 2023 – May 2027",
-    score: "GPA: 8.7/10",
+    score: "GPA: 8.71/10",
     highlight: true,
     coursework: [
       "Data Structures & Algorithms",
