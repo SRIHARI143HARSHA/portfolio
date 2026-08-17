@@ -34,7 +34,7 @@ export const links = {
   hackerrankUsername: "ramayanapusriha1",
   email: "srihariramayanapu@gmail.com",
   phone: "(+91) 7093103017",
-  resume: "/resume.pdf"
+  resume: "./resume.pdf"
 };
 
 export const statsCards = [
@@ -278,7 +278,7 @@ export const projectsData = [
       "Resume PDF viewer & validated contact form"
     ],
     github: "https://github.com/SRIHARI143HARSHA/portfolio",
-    demo: "http://localhost:3000/",
+    demo: "https://srihari143harsha.github.io/portfolio/",
     imageGradient: "from-blue-600 to-cyan-900",
     iconName: "Layout"
   },
