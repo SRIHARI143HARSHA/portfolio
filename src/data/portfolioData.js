@@ -11,9 +11,9 @@ export const personalInfo = {
   email: "srihariramayanapu@gmail.com",
   phone: "(+91) 7093103017",
   primaryRole: "Computer Science (AI) Student | Full Stack Developer | Software Engineer",
-  summary: "Computer Science (AI) student with strong skills in full stack development, IoT, and real-time systems. Proficient in Java, Python, and React.js with hands-on internship experience as a Full Stack Developer Intern at Edu-Versity (Bangalore). Passionate about building scalable and intelligent solutions to solve real-world problems.",
+  summary: "Computer Science (AI) student with strong skills in full stack development, IoT, and real-time systems. Proficient in Java, Python, and React.js with hands-on internship experience as a Full Stack Web Developer Intern at Eduversity. Passionate about building scalable and intelligent solutions to solve real-world problems.",
   aboutText1: "I am Ramayanapu Srihari (Sri Hari), a Computer Science and Engineering (Artificial Intelligence) student at Saveetha School of Engineering, Chennai, with a current GPA of 8.71/10.",
-  aboutText2: "I completed a hands-on internship as a Full Stack Developer Intern at Edu-Versity, Bangalore, where I assisted in building web application components using React.js and Node.js, working on frontend UI enhancements, and integrating REST API backends.",
+  aboutText2: "I completed an internship as a Full Stack Web Developer Intern at Eduversity (Aug 2025 – Oct 2025), where I developed responsive web applications, built reusable UI components, integrated APIs, and participated in debugging and UX enhancements.",
   heroRoles: [
     "Java Developer",
     "Full Stack Developer",
@@ -102,18 +102,20 @@ export const skillCategories = [
 
 export const internships = [
   {
-    id: "edu-versity",
-    company: "Edu-Versity",
+    id: "eduversity",
+    company: "Eduversity",
     location: "Bangalore",
-    role: "Full Stack Developer Intern",
-    period: "Resume Internship Experience",
-    description: "Assisted in developing and maintaining web application components using React.js and Node.js. Worked on frontend UI improvements and basic backend integration.",
+    role: "Full Stack Web Developer Intern",
+    period: "Aug 2025 – Oct 2025",
+    description: "Developed and tested responsive web applications using modern frontend technologies, built reusable UI components, integrated APIs, and participated in debugging and user experience enhancements.",
     responsibilities: [
-      "Assisted in developing and maintaining web application components using React.js and Node.js.",
-      "Worked on frontend UI improvements and basic backend integration.",
-      "Collaborated with team members to understand full stack development workflows."
+      "Developed and tested responsive web applications using modern frontend technologies",
+      "Built reusable UI components and structured layouts for improved performance",
+      "Integrated APIs and supported application workflows",
+      "Collaborated with team members to enhance application structure and usability",
+      "Participated in debugging, testing, and improving user experience"
     ],
-    technologies: ["React.js", "Node.js", "JavaScript", "HTML/CSS", "Git"]
+    technologies: ["React.js", "Node.js", "JavaScript", "HTML5", "CSS3", "REST APIs", "Git"]
   }
 ];
 
@@ -133,14 +135,14 @@ export const learningJourney = [
     highlight: true
   },
   {
-    period: "Internship",
-    title: "Full Stack Developer Intern",
-    institution: "Edu-Versity, Bangalore",
-    status: "Resume Internship Experience",
+    period: "Aug 2025 – Oct 2025",
+    title: "Full Stack Web Developer Intern",
+    institution: "Eduversity, Bangalore",
+    status: "Completed Internship",
     focus: [
-      "Assisted in developing and maintaining web application components using React.js and Node.js.",
-      "Worked on frontend UI improvements and basic backend integration.",
-      "Collaborated with team members to understand full stack development workflows."
+      "Developed & tested responsive web applications using modern frontend technologies",
+      "Built reusable UI components & structured layouts for performance",
+      "Integrated APIs, supported workflows, and enhanced usability"
     ],
     icon: "Code2",
     highlight: true
