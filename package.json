@@ -1,9 +1,9 @@
 {
-  "name": "srihari-portfolio",
+  "name": "portfolio",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "homepage": "https://SRIHARI143HARSHA.github.io/srihari-portfolio",
+  "homepage": "https://SRIHARI143HARSHA.github.io/portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

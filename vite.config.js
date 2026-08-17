@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react';
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: './', // Using relative base path for seamless GitHub Pages deployment
+  base: './', // Seamless deployment to https://SRIHARI143HARSHA.github.io/portfolio/
   server: {
     port: 3000,
     open: true
